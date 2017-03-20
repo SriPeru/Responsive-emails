@@ -12,7 +12,7 @@
 
 4. Try to avoid images, some mail clients avoid loading images. Otherwise compress images heavily to laod faster. (mail clients need user consent to load the images, gmail caches the images)
 
-5. Do Litmus and Email on Acid testing, but real device testing is always better.
+5. Do Litmus and 'Email on Acid testing', but real device testing is always better.
 
 6. Some of the mail clients wrongly stack <td>'s this needs more css to fix the issues.
 
