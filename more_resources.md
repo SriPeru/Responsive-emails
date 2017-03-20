@@ -14,7 +14,7 @@
 
 5. Do Litmus and 'Email on Acid testing', but real device testing is always better.
 
-6. Some of the mail clients wrongly stack <td>'s this needs more css to fix the issues.
+6. Some of the mail clients wrongly stack < td >'s this needs more css to fix the issues.
 
 ## Email with minimal media quries
 
