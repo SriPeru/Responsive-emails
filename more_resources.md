@@ -6,7 +6,7 @@
 
 1. Use simple design -> try to go with Single column layout to reduce the clutter
 
-2. Font should be clear and easy to ready - otherwise user will skip. At minimum, use 13 or 14 pixels for the text and 20-22 for the titles. This will make your email much more readable on a small screen.
+2. Font should be clear and easy to read - otherwise user will skip. At minimum, use 13 or 14 pixels for the text and 20-22 for the titles. This will make your email much more readable on a small screen.
 
 3. Try to avoid hyperlinks and use big buttons to highlight, better to add tap to call to make your email friendly
 
